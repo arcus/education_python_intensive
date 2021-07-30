@@ -1,1 +1,1 @@
-# education_python_intensive
+# Introduction to Python
