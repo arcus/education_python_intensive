@@ -26,9 +26,9 @@ After completion of this module, learners will be able to:
 - [What does Python code look like?](#What-does-Python-code-look-like) (2 min read)
     - [Python scripts](#Python-scripts)
     - [Jupter notebooks](#Jupter-notebooks)
-- [Using a Jupyter notebook](#Using-a-Jupyter-notebook) (activity)
+- [Using a Jupyter notebook](#Using-a-Jupyter-Notebook) (activity)
     - [(Optional video) Jupyter notebooks](#Optional-video)
-- [Next Steps](#Next-steps)(2 min read)
+- [Next Steps](#Next-Steps)(2 min read)
     - [Installing Python on your computer](#Installing-Python-on-your-own-computer) (1 min read)
         - [(Optional video) Installing Python using Anaconda](#Installing-Python-using-Anaconda)
     - [Further reading](#Further-reading)(1 min read)
@@ -77,11 +77,11 @@ Instead of writing instructions one at a time, for more complex tasks you might 
 
 Here is a short script written in the Spyder IDE:
 
-![Writing Python in Spyder]()
+![Writing Python in Spyder](https://github.com/arcus/education_python_intensive/blob/main/images/python-in-spyder.png?raw=true)
 
 Spyder has a console, where you can see the output of your script without having to run it in the Command Prompt/Terminal:
 
-![Python output in Spyder]()
+![Python output in Spyder](https://github.com/arcus/education_python_intensive/blob/main/images/python-spyder-console.png?raw=true)
 
 ### Jupter notebooks
 
@@ -118,7 +118,7 @@ Alternatively, you can install Python using [Anaconda](https://www.anaconda.com/
 
 Once you've downloaded Anaconda, you can open the Anaconda Navigator; when you do, you'll see this:
 
-![Anaconda Navigator interface]()
+![Anaconda Navigator interface](https://github.com/arcus/education_python_intensive/blob/main/images/anaconda.png?raw=true)
 
 Now you have access to lots of tools for working with Python!
 
