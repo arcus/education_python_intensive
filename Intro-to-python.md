@@ -3,19 +3,20 @@
 :::info
 ## Overview
 
-In this module, learners will become familiar with Python code and why they might want to use it in their research, and practice using Python in a Jupyter notebook. This module is appropriate for a learner at the beginner level.
+In this module, learners will become familiar with Python code, explore why they might want to use it in their research, and practice using Python in a Jupyter notebook. This module is appropriate for a learner at the beginner level.
 
 **Estimated time to completion**: 1 hour
 
-**Pre-requisites**: Learners should be familiar with tabular data (data stored in a rectangular format, like an Excel spreadsheet or a comma separated file). Learners do not need to have access to Python or Juypyter notebooks on their own computers. 
+**Pre-requisites**: Learners should be familiar with tabular data (data stored in a rectangular format, like an Excel spreadsheet or a comma separated file). Learners do not need to have access to Python or Jupyter notebooks on their own computers. 
 
 **Learning Objectives**:
 
 After completion of this module, learners will be able to:
 
 * Describe what Python is and why they might want to use it for research
-* Download Python and Jupyter using Anaconda
 * Recognize Python code
+* Write text in Markdown and simple code in a Jupyter notebook
+* Download Python using the Anaconda distribution
 
 :::
 
@@ -51,7 +52,7 @@ While the word "python" might immediately make you think of a snake, that's not 
 
 So why should you consider Python for your data analysis? There are a few reasons:
 
-- Python is that it is designed to be *human readable*. It's philosophy is centered around producing simple, efficient, easy-to-read code, but you shouldn't get too hung up on that-- code that works for you is good code! Creating human-readable code is great for research because your analyses can be more reproducible (if you know exactly what you did, you can reproduce it) and transparent (writing the methods section of your paper is much easier when you have clear language as to what you did and why).
+- Python is designed to be *human readable*. Its philosophy is centered around producing simple, efficient, easy-to-read code, but you shouldn't get too hung up on that- code that works for you is good code! Creating human-readable code is great for research because your analyses will be more reproducible (if you know exactly what you did, you can reproduce it) and transparent (writing the methods section of your paper is much easier when you have clear language as to what you did and why).
 
 - Python is free to download and use, and it is an *open source* language, meaning that updates and innovations happen more quickly than proprietary software (to learn more about open source, see **link to open source module**).
 
@@ -98,9 +99,14 @@ If you're interested in learning how to write Python code in a Jupyter notebook?
 
 ## Using a Jupyter Notebook
 
-This is a hands-on activity! If you would prefer to watch a video of the activity, proceed to the [next section](#Optional-video).
+This is a hands-on activity! Feel free to pop over to that tab you opened in the [Preparation section](#Preparation) to get started.
+
+If you would prefer to watch a video of the activity, or simply want to see a demonstration, we have one here:
 
 
+### Optional video
+
+:movie_camera: 
 
 :::success
 - [ ] Finished this section? Check it off here!
