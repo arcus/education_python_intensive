@@ -4,14 +4,14 @@
 
 This series of modules should prepare learners to use the Python programming language for data analysis.
 
-**Estimated time to completion**:
+**Estimated time to completion**: 4 hours
 
-**Pre-requisites**:
+**Pre-requisites**: For Introduction to Python, a familiarity with tabular data (rows and columns). For the other modules, a general beginner-level familiarity with the Python language (which could be acquired in Part I of this series or elsewhere).
 
-**Learning Objectives**:  After completion of this series, learners will be able to:
+**Learning Objectives**:  
 
-
-Part 1: Introduction to Python
-Part 2: Python for Data Science
-Part 3: Data Visualization
-Part 4: Intro to Machine Learning with Python
+**Content**:
+- Part 1: Introduction to Python
+- Part 2: Python for Data Science
+- Part 3: Data Visualization
+- Part 4: Intro to Machine Learning with Python
