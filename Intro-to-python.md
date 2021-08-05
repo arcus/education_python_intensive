@@ -38,8 +38,9 @@ After completion of this module, learners will be able to:
 
 For the hands-on activities in this module, we will be using an online environment containing a Juypter notebook. To load the environment, open the link below in a new tab:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arcus/education_python_intensive/main?filepath=intro-to-python.ipynb) :arrow_left: **Click here!**
 
-The environment take a few minutes to load, so be patient. Read through the next couple of sections while you wait! We'll won't need the online environment until the ["Using a Jupyter notebook" section](#Using-a-Jupyter-notebook).
+The environment take a few minutes to load, so be patient. Read through the next couple of sections while you wait! We won't need the online environment until the ["Using a Jupyter notebook" section](#Using-a-Jupyter-notebook).
 
 :::success
 - [ ] Finished this section? Check it off here!
