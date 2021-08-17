@@ -13,7 +13,7 @@ comment:  This module introductions the Python programming language and demonstr
 
 # Introduction to Python
 
-![Python logo](https://github.com/arcus/education_python_intensive/blob/main/images/python-log-master-v3-TM-flattened.png?raw=true)
+![Python logo](https://github.com/arcus/education_python_intensive/blob/main/images/python-logo-master-v3-TM-flattened.png)
 
 ## Overview
 
