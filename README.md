@@ -11,7 +11,7 @@ This series of modules should prepare learners to use the Python programming lan
 **Learning Objectives**:  
 
 **Content**:
-- Part 1: Introduction to Python
+- Part 1: [Introduction to Python](https://liascript.github.io/course/?https://raw.githubusercontent.com/arcus/education_python_intensive/main/Intro-to-python.md#1)
 - Part 2: Python for Data Science
 - Part 3: Data Visualization
 - Part 4: Intro to Machine Learning with Python
