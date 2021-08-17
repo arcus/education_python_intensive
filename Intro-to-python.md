@@ -128,7 +128,11 @@ The Spyder IDE has a console where you can see the output of your script without
 
 ![Python output in Spyder](https://github.com/arcus/education_python_intensive/blob/main/images/python-spyder-console.png?raw=true)
 
-As you can see in the screenshot of the console, all we had to do was create the file one time and then run that file instead of typing in the code interactively. This can save you time and effort if you have a task you know you'll want to do over and over again. In the Spyder IDE there is a "run" button (a green arrow in menu at the top) but you could also run the same file in your Terminal/Command Line by typing the command `python` followed by the file name of your Python script. Just be sure that you are in the directory where you have saved your script!
+As you can see in the screenshot of the console, all we had to do was create the file one time and then run that file instead of typing in the code interactively. This can save you time and effort if you have a task you know you'll want to do over and over again. In the Spyder IDE there is a "run" button (a green arrow in menu at the top) but you could also run the same file in your Terminal/Command Line by typing the command `python` followed by the file name of your Python script. When you save a Python script, you'll use the file extension .py, and so to run the script in the example above, I would navigate to the correct directory in the Terminal (the folder where you've saved your file) and type this:
+
+`python intro-to-python.py`
+
+If you are in the right place, you should see the output of your code!
 
 ### Knowledge Check
 
@@ -188,7 +192,7 @@ How would you refer to the column "age" in a data frame called "students"?
 
 [( )] `age`
 [(X)] `students["age"]`
-[( )] `students.age`
+[( )] `students.age()`
 [( )] `students[age]`
 
 ### Knowledge Check 2
