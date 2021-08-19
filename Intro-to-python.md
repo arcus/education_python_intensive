@@ -31,31 +31,29 @@ After completion of this module, learners will be able to:
 
 * Describe what Python is and why they might want to use it for research
 * Recognize Python code
-* Write text in Markdown and simple code in a Jupyter notebook
+* Write text and simple code in a Jupyter notebook
 * Download Python using the Anaconda distribution
 
 
 ## Content:
 
-- [Preparation](#Preparation) (2 min activity)
+* [Preparation](#Preparation) (2 min activity)
 
-- [What is Python?](#So-what-is-Python-anyway) (2 min read)
+* [What is Python?](#So-What-Is-Python-Anyway) (2 min read)
 
-- [What does Python code look like?](#What-does-Python-code-look-like) (3 min read)
+* [What Does Python Code Look Like?](#What-Does-Python-Code-Look_Like) (3 min read)
 
-    - [Python scripts](#Python-scripts) (3 min read)
+* [Python Scripts](#Python-Scripts) (3 min read)
 
-    - [Jupter notebooks](#Jupter-notebooks) (2 min read)
+* [Jupter Notebooks](#Jupyter-Notebooks) (2 min read)
 
-- [Using a Jupyter notebook](#Using-a-Jupyter-Notebook) (10 min activity)
+* [Using a Jupyter Notebook](#Using-a-Jupyter-Notebook) (10 min activity)
 
-- [Next Steps](#Next-Steps) (2 min read)
+* [Next Steps](#Next-Steps) (2 min read)
 
-    - [Installing Python on your computer](#Installing-Python-on-your-own-computer) (1 min read)
+   * [Installing Python On Your Computer](#Installing-Python-On-Your-Own-Computer) (1 min read)
 
-        - [(Optional video) Installing Python using Anaconda](#Installing-Python-using-Anaconda)
-
-    - [Further reading](#Further-reading)(1 min read)
+   * [Further Reading](#Further-Reading) (1 min read)
 
 ## Preparation
 
@@ -64,10 +62,10 @@ For the hands-on activity in this module, we will be using an online environment
  **Click here!**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arcus/education_python_intensive/main?filepath=intro-to-python.ipynb)
 
-The environment takes a few minutes to load, so be patient. Read through the next couple of sections while you wait! We won't need the online environment until the ["Using a Jupyter notebook" section](#Using-a-Jupyter-notebook).
+The environment takes a few minutes to load, so be patient. Read through the next couple of sections while you wait! We won't need the online environment until the ["Using a Jupyter Notebook" section](#Using-a-Jupyter-Notebook).
 
 
-## So what is Python, anyway?
+## So What Is Python, Anyway?
 
 While the word "python" might immediately make you think of a snake, that's not all it is! Python refers to a programming language. There are a lot of different programming languages for a variety of tasks, but what they all have in common is that they tell your computer what to do. Behind all of your favorite applications is a software developer (or, more often, several developers) who have written the instructions for the computer in a programming language. Python is a particularly versatile language that can be used for web development, data science, machine learning, and more.
 
@@ -81,7 +79,7 @@ So why should you consider Python for your data analysis? There are a few reason
 
 Python can be written in several ways. You can write Python code interactively using your computer's Terminal program or Command Line, you can write scripts that include Python code, or you can create Python notebooks using Jupyter or Google Colaboratory (or "Colab" for short). In most cases, you'll need to start with downloading Python to your computer (the exception will be if you are using cloud-based solutions like Google Colab).
 
-### Knowledge Check
+### Knowledge Check 1
 
 What are some reasons to consider using Python for data analysis? Select all that apply.
 
@@ -90,11 +88,11 @@ What are some reasons to consider using Python for data analysis? Select all tha
 [[X]] Python is human-readable.
 [[X]] The Python community has lots of resources to help you get started.
 
-### Knowledge Check
+### Knowledge Check 1 Explained
 
 While Python is human-readable and free, it is not point-and-click software, and it can take some time and effort to learn how to write Python code. Don't worry, there are lots of resources out there to help you learn!
 
-## What does Python code look like?
+## What Does Python Code Look Like?
 
 There are a variety of ways that people write Python code, depending on their goals. If you have Python installed on your computer, you can use your computer's Command Line or Terminal program to write Python code interactively, like this:
 
@@ -112,7 +110,7 @@ The Python interpreter evaluates expressions from the inside out. The function `
 
 Most of the time, you won't be typing code like this directly in the Terminal. Usually, you'll either be using Python scripts or using a notebook.
 
-### Python scripts
+## Python Scripts
 
 Instead of writing instructions one at a time, for more complex tasks you might want to write a Python script, a series of instructions that you can write out ahead of time and then run in order with one command. Scripts are often written using special text editors that are designed for writing code (such as Atom or Sublime) or full-featured integrated development environments, or IDEs for short (IDEs, such as PyCharm or Spyder, have more debugging and automation capabilities than text editors).
 
@@ -134,7 +132,7 @@ As you can see in the screenshot of the console, all we had to do was create the
 
 If you are in the right place, you should see the output of your code!
 
-### Knowledge Check
+### Knowledge Check 2
 
 Which of the following is *not* an example of Python code?
 
@@ -143,12 +141,12 @@ Which of the following is *not* an example of Python code?
 [( )] `list(range(1, 100))`
 [( )] `height = input("How tall are you?")`
 
-### Knowledge Check
+### Knowledge Check 2 Explained
 
 The Python language uses functions that contain instructions that tell the computer what it is supposed to do, and these functions are the name of the function followed by the *arguments* in parentheses. Arguments are information that the person writing the code (you!) provide to tell the function what data to perform its task on and more specificity on how exactly to perform the task. `print()`, `list()`, `range()`, and `input()` are just a few of Python's built-in functions! You can read more about Python's built-in functions [here](https://docs.python.org/3/library/functions.html).
 
 
-### Jupyter notebooks
+## Jupyter Notebooks
 
 If you are interested in using Python for data analysis, you might want to write Python in a Jupyter notebook (which was previously called an IPython notebook). There are a couple of reasons why you should consider using Jupyter notebooks:
 
@@ -158,7 +156,7 @@ If you are interested in using Python for data analysis, you might want to write
 Interested in learning how to write Python code in a Jupyter notebook? Continue on to the next section for a hands-on activity! You won't need to download anything to your computer.
 
 
-## Using a Jupyter notebook
+## Using a Jupyter Notebook
 
 This is a hands-on activity! Feel free to pop over to that tab you opened in the [Preparation section](#Preparation) to get started. Need the link again? Here it is:
 
@@ -169,7 +167,7 @@ If you would prefer to watch a video of the activity, or simply want to see a de
 
 **Video coming soon!**
 
-### Knowledge Check 1
+### Knowledge Check 3
 
 What are the components of a Jupyter notebook? Select all that apply.
 
@@ -177,7 +175,7 @@ What are the components of a Jupyter notebook? Select all that apply.
 [[X]] Text cells written in Markdown
 [[ ]] A console where you can write lines of code interactively
 
-### Knowledge Check 1
+### Knowledge Check 3 Explained
 Jupyter notebooks contain code cells and text cells.
 
 The code cells are written in Python and can contain as much or as little code as you want; the output of the code can be displayed directly beneath the code cell and the code can be edited and re-run at any time.
@@ -186,7 +184,7 @@ The text cells are written in Markdown language and can provide more context and
 
 Jupyter notebooks do not have console, but since you can run each code cell independently, you don't really need one!
 
-### Knowledge Check 2
+### Knowledge Check 4
 
 How would you refer to the column "age" in a data frame called "students"?
 
@@ -195,7 +193,7 @@ How would you refer to the column "age" in a data frame called "students"?
 [( )] `students.age()`
 [( )] `students[age]`
 
-### Knowledge Check 2
+### Knowledge Check 4 Explained
 To refer to a column within a data frame, you use the syntax `dataframe["column"]` (don't forget the quotes!). Just `age` by itself would tell Python tp look for a variable called "age". `students.age` would indicate to Python that you wanted to invoke a method `age` on the "students" data frames.
 
 
@@ -203,7 +201,7 @@ To refer to a column within a data frame, you use the syntax `dataframe["column"
 
 Are you interested in learning more about Python, or even starting to work with it? Continue on for tips on what you might want to do next!
 
-### Installing Python on your own computer
+### Installing Python On Your Own Computer
 
 Your computer most likely will *not* have Python already installed. To check, you can open your Command Line/Terminal and type `python --version`. The version you have will be displayed if you have Python installed. If you don't, you can go [here](https://www.python.org/downloads/) to download the latest version.
 
@@ -215,7 +213,7 @@ Once you've downloaded Anaconda, you can open the Anaconda Navigator; when you d
 
 Now you have access to lots of tools for working with Python!
 
-### Knowledge Check
+#### Knowledge Check 5
 
 How can you access Python to start to practice on your own?
 
@@ -224,10 +222,10 @@ How can you access Python to start to practice on your own?
 [( )] By using cloud-based tools, such as Google Colab
 [(X)] All of the above
 
-### Knowledge Check
+#### Knowledge Check 5 Explained
 You can download Python directly to your computer, use Anaconda to download Python as well as many other data science tools, or use cloud-based notebooks like Google Colab-- the choice is yours!
 
-### Further reading
+### Further Reading
 
 If you want to continue with this Python Intensive Series, or learn a bit more about other data science topics, here are some places to go next:
 
